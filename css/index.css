@@ -1,0 +1,27 @@
+body{ 
+    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vjkyj2hBg/sand-clock-flat-shape-animation-on-blue-background-old-time_bt4kfp1q__S0005.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.block{
+    background:rgba(0,0,0,.0);
+    color: white;
+}
+.spacer{
+    padding:10px;
+}
+
+h2{
+    display: inline;
+}
+
+.custom{
+    color: black;
+    background-color:white;
+    padding:20px;
+}
+
+#start, #reset{
+    margin: 10px;
+}
