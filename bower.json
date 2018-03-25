@@ -1,0 +1,14 @@
+{
+  "name": "Pomodoroclock",
+  "homepage": "https://github.com/twilson23/Pomodoroclock",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
